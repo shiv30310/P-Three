@@ -30,11 +30,8 @@ const Computers = () => {
 }
 
 let ComputersCanvas = () =>{
-  const [isMobile, setIsMobile] = useState(false)
+  const [isMobile, setIsMobile] = useState(false);
 
-  useEffect(() => {
-    const mediaQuery = 
-  })
   return (
     <Canvas
     frameloop='demand'
