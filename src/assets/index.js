@@ -20,17 +20,28 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import django from "./tech/django.png";
+import python from "./tech/python.png";
+import postgress from "./tech/postgressSQL.png";
+import selenium from "./tech/selenium.png";
+import drf from "./tech/drf.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import hcl from "./company/hcl.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import pydashboard from "./pydashboard.png";
 
 export {
+  python,
+  postgress,
+  selenium,
+  drf,
   logo,
   backend,
   creator,
@@ -59,4 +70,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  django,
+  hcl,
+  pydashboard
 };
